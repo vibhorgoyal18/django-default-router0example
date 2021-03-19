@@ -25,7 +25,7 @@ Django==3.0.3
 django-cors-headers==3.2.1
 django-rest-framework==0.1.0
 django-rest-swagger==2.2.0
-djangorestframework==3.11.0
+djangorestframework==3.11.2
 drf-yasg==1.17.0
 entrypoints==0.3
 fabric==2.5.0
